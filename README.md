@@ -1,4 +1,4 @@
-# Web Scraping Project with Python and Selenium
+# Books Scraping Project with Python and Selenium
 
 🚀 Exciting News! Just Completed a Web Scraping Project with Python and Selenium! 🐍💻
 
